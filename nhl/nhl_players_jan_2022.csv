@@ -1,0 +1,840 @@
+Id,Name,Birthday,Birth Country,Team Id,Team Name
+8473541,Jonathan Bernier,1988-08-07,CAN,1,New Jersey Devils
+8476462,Dougie Hamilton,1993-06-17,CAN,1,New Jersey Devils
+8477425,Miles Wood,1995-09-13,USA,1,New Jersey Devils
+8481740,Tyce Thompson,1999-07-12,CAN,1,New Jersey Devils
+8474056,P.K. Subban,1989-05-13,CAN,1,New Jersey Devils
+8475193,Tomas Tatar,1990-12-01,SVK,1,New Jersey Devils
+8476903,Jon Gillies,1994-01-22,USA,1,New Jersey Devils
+8476918,Jimmy Vesey,1993-05-26,USA,1,New Jersey Devils
+8476923,Damon Severson,1994-08-07,CAN,1,New Jersey Devils
+8477341,Andreas Johnsson,1994-11-21,SWE,1,New Jersey Devils
+8477419,Mason Geertsen,1995-04-19,CAN,1,New Jersey Devils
+8477435,Ryan Graves,1995-05-21,CAN,1,New Jersey Devils
+8478399,Jonas Siegenthaler,1997-05-06,CHE,1,New Jersey Devils
+8478406,Mackenzie Blackwood,1996-12-09,CAN,1,New Jersey Devils
+8478868,Christian Jaros,1996-04-02,SVK,1,New Jersey Devils
+8479407,Jesper Bratt,1998-07-30,SWE,1,New Jersey Devils
+8479414,Nathan Bastian,1997-12-06,CAN,1,New Jersey Devils
+8479415,Michael McLeod,1998-02-03,CAN,1,New Jersey Devils
+8479511,Janne Kuokkanen,1998-05-25,FIN,1,New Jersey Devils
+8480002,Nico Hischier,1999-01-04,CHE,1,New Jersey Devils
+8480003,Jesper Boqvist,1998-10-30,SWE,1,New Jersey Devils
+8480226,Marian Studenic,1998-10-28,SVK,1,New Jersey Devils
+8480883,Ty Smith,2000-03-24,CAN,1,New Jersey Devils
+8481033,Akira Schmid,2000-05-12,CHE,1,New Jersey Devils
+8481518,Nolan Foote,2000-11-29,USA,1,New Jersey Devils
+8481559,Jack Hughes,2001-05-14,USA,1,New Jersey Devils
+8482110,Dawson Mercer,2001-10-27,CAN,1,New Jersey Devils
+8475151,Kyle Palmieri,1991-02-01,USA,2,New York Islanders
+8477506,Ryan Pulock,1994-10-06,CAN,2,New York Islanders
+8475754,Brock Nelson,1991-10-15,USA,2,New York Islanders
+8480222,Sebastian Aho,1996-02-17,SWE,2,New York Islanders
+8465009,Zdeno Chara,1977-03-18,SVK,2,New York Islanders
+8470610,Zach Parise,1984-07-28,USA,2,New York Islanders
+8472382,Andy Greene,1982-10-30,USA,2,New York Islanders
+8473504,Cal Clutterbuck,1987-11-18,CAN,2,New York Islanders
+8473575,Semyon Varlamov,1988-04-27,RUS,2,New York Islanders
+8474573,Josh Bailey,1989-10-02,CAN,2,New York Islanders
+8474709,Matt Martin,1989-05-08,CAN,2,New York Islanders
+8475231,Casey Cizikas,1991-02-27,CAN,2,New York Islanders
+8475314,Anders Lee,1990-07-03,USA,2,New York Islanders
+8476419,Jean-Gabriel Pageau,1992-11-11,CAN,2,New York Islanders
+8476429,Scott Mayfield,1992-10-14,USA,2,New York Islanders
+8476917,Adam Pelech,1994-08-16,CAN,2,New York Islanders
+8477527,Ross Johnston,1994-02-18,CAN,2,New York Islanders
+8478009,Ilya Sorokin,1995-08-04,RUS,2,New York Islanders
+8478445,Mathew Barzal,1997-05-26,CAN,2,New York Islanders
+8478463,Anthony Beauvillier,1997-06-08,CAN,2,New York Islanders
+8479356,Kieffer Bellows,1998-06-10,USA,2,New York Islanders
+8480071,Robin Salo,1998-10-13,FIN,2,New York Islanders
+8480789,Oliver Wahlstrom,2000-06-13,USA,2,New York Islanders
+8480865,Noah Dobson,2000-01-07,CAN,2,New York Islanders
+8478104,Sammy Blais,1996-06-17,CAN,3,New York Rangers
+8471817,Ryan Reaves,1987-01-20,CAN,3,New York Rangers
+8475184,Chris Kreider,1991-04-30,USA,3,New York Rangers
+8475735,Greg McKegg,1992-06-17,CAN,3,New York Rangers
+8475797,Jarred Tinordi,1992-02-20,USA,3,New York Rangers
+8476234,Keith Kinkaid,1989-07-04,USA,3,New York Rangers
+8476458,Ryan Strome,1993-07-11,CAN,3,New York Rangers
+8476459,Mika Zibanejad,1993-04-18,SWE,3,New York Rangers
+8476624,Barclay Goodrow,1993-02-26,CAN,3,New York Rangers
+8476885,Jacob Trouba,1994-02-26,USA,3,New York Rangers
+8478211,Dryden Hunt,1995-11-24,CAN,3,New York Rangers
+8479291,Kevin Rooney,1993-05-21,USA,3,New York Rangers
+8479323,Adam Fox,1998-02-17,USA,3,New York Rangers
+8479324,Ryan Lindgren,1998-02-11,USA,3,New York Rangers
+8479328,Julien Gauthier,1997-10-15,CAN,3,New York Rangers
+8479333,Libor Hajek,1998-02-04,CZE,3,New York Rangers
+8480078,Filip Chytil,1999-09-05,CZE,3,New York Rangers
+8480289,Morgan Barron,1998-12-02,CAN,3,New York Rangers
+8480382,Alexandar Georgiev,1996-02-10,BGR,3,New York Rangers
+8480817,K'Andre Miller,2000-01-21,USA,3,New York Rangers
+8480878,Nils Lundkvist,2000-07-27,SWE,3,New York Rangers
+8481554,Kaapo Kakko,2001-02-13,FIN,3,New York Rangers
+8481708,Zac Jones,2000-10-18,USA,3,New York Rangers
+8482109,Alexis Lafrenière,2001-10-11,CAN,3,New York Rangers
+8470775,Nate Thompson,1984-10-05,USA,4,Philadelphia Flyers
+8475176,Ryan Ellis,1991-01-03,CAN,4,Philadelphia Flyers
+8476461,Sean Couturier,1992-12-07,USA,4,Philadelphia Flyers
+8479550,Tanner Laczynski,1997-06-01,USA,4,Philadelphia Flyers
+8473512,Claude Giroux,1988-01-12,CAN,4,Philadelphia Flyers
+8478439,Travis Konecny,1997-03-11,CAN,4,Philadelphia Flyers
+8471735,Keith Yandle,1986-09-09,USA,4,Philadelphia Flyers
+8473544,Derick Brassard,1987-09-22,CAN,4,Philadelphia Flyers
+8474027,Justin Braun,1987-02-10,USA,4,Philadelphia Flyers
+8474037,James van Riemsdyk,1989-05-04,USA,4,Philadelphia Flyers
+8474715,Cam Atkinson,1989-06-05,USA,4,Philadelphia Flyers
+8474889,Martin Jones,1990-01-10,CAN,4,Philadelphia Flyers
+8475246,Kevin Connauton,1990-02-23,CAN,4,Philadelphia Flyers
+8475763,Kevin Hayes,1992-05-08,USA,4,Philadelphia Flyers
+8476372,Nick Seeler,1993-06-03,USA,4,Philadelphia Flyers
+8476872,Scott Laughton,1994-05-30,CAN,4,Philadelphia Flyers
+8477499,Rasmus Ristolainen,1994-10-27,FIN,4,Philadelphia Flyers
+8477887,Patrick Brown,1992-05-29,USA,4,Philadelphia Flyers
+8478051,Max Willman,1995-02-13,USA,4,Philadelphia Flyers
+8478067,Oskar Lindblom,1996-08-15,SWE,4,Philadelphia Flyers
+8478500,Ivan Provorov,1997-01-13,RUS,4,Philadelphia Flyers
+8479382,Connor Bunnaman,1998-04-16,CAN,4,Philadelphia Flyers
+8479394,Carter Hart,1998-08-13,CAN,4,Philadelphia Flyers
+8479772,Zack MacEwen,1996-07-08,CAN,4,Philadelphia Flyers
+8479933,Gerry Mayhew,1992-12-31,USA,4,Philadelphia Flyers
+8480028,Morgan Frost,1999-05-14,CAN,4,Philadelphia Flyers
+8480797,Joel Farabee,2000-02-25,USA,4,Philadelphia Flyers
+8481178,Egor Zamula,2000-03-30,RUS,4,Philadelphia Flyers
+8481546,Cam York,2001-01-05,USA,4,Philadelphia Flyers
+8475722,Jason Zucker,1992-01-16,USA,5,Pittsburgh Penguins
+8475839,Louis Domingue,1992-03-06,CAN,5,Pittsburgh Penguins
+8480945,Juuso Riikola,1993-11-09,FIN,5,Pittsburgh Penguins
+8470619,Brian Boyle,1984-12-18,USA,5,Pittsburgh Penguins
+8471675,Sidney Crosby,1987-08-07,CAN,5,Pittsburgh Penguins
+8471724,Kris Letang,1987-04-24,CAN,5,Pittsburgh Penguins
+8475208,Brian Dumoulin,1991-09-06,USA,5,Pittsburgh Penguins
+8475810,Bryan Rust,1992-05-11,USA,5,Pittsburgh Penguins
+8476875,Mike Matheson,1994-02-27,CAN,5,Pittsburgh Penguins
+8476927,Teddy Blueger,1994-08-15,LVA,5,Pittsburgh Penguins
+8476934,Brock McGinn,1994-02-02,CAN,5,Pittsburgh Penguins
+8477244,Chad Ruhwedel,1990-05-07,USA,5,Pittsburgh Penguins
+8477404,Jake Guentzel,1994-10-06,USA,5,Pittsburgh Penguins
+8477465,Tristan Jarry,1995-04-29,CAN,5,Pittsburgh Penguins
+8477953,Kasperi Kapanen,1996-07-23,FIN,5,Pittsburgh Penguins
+8477969,Marcus Pettersson,1996-05-08,SWE,5,Pittsburgh Penguins
+8478017,Mark Friedman,1995-12-25,CAN,5,Pittsburgh Penguins
+8478046,Danton Heinen,1995-07-05,CAN,5,Pittsburgh Penguins
+8478507,John Marino,1997-05-21,USA,5,Pittsburgh Penguins
+8478542,Evan Rodrigues,1993-07-28,CAN,5,Pittsburgh Penguins
+8478866,Dominik Simon,1994-08-08,CZE,5,Pittsburgh Penguins
+8479193,Casey DeSmith,1991-08-13,USA,5,Pittsburgh Penguins
+8479512,Kasper Bjorkqvist,1997-07-10,FIN,5,Pittsburgh Penguins
+8479944,Zach Aston-Reese,1994-08-10,USA,5,Pittsburgh Penguins
+8482241,Radim Zohorna,1996-04-29,CZE,5,Pittsburgh Penguins
+8478415,Jakub Zboril,1997-02-21,CZE,6,Boston Bruins
+8470638,Patrice Bergeron,1985-07-24,CAN,6,Boston Bruins
+8473419,Brad Marchand,1988-05-11,CAN,6,Boston Bruins
+8473422,Nick Foligno,1987-10-31,USA,6,Boston Bruins
+8475186,John Moore,1990-11-19,USA,6,Boston Bruins
+8475225,Craig Smith,1989-09-05,USA,6,Boston Bruins
+8475287,Erik Haula,1991-03-23,FIN,6,Boston Bruins
+8475745,Charlie Coyle,1992-03-02,USA,6,Boston Bruins
+8475762,Derek Forbort,1992-03-04,USA,6,Boston Bruins
+8475791,Taylor Hall,1991-11-14,CAN,6,Boston Bruins
+8476422,Mike Reilly,1993-07-13,USA,6,Boston Bruins
+8476891,Matt Grzelcyk,1994-01-05,USA,6,Boston Bruins
+8476999,Linus Ullmark,1993-07-31,SWE,6,Boston Bruins
+8477320,Anton Blidh,1995-03-14,SWE,6,Boston Bruins
+8477365,Connor Clifton,1995-04-28,USA,6,Boston Bruins
+8477508,Curtis Lazar,1995-02-02,CAN,6,Boston Bruins
+8477956,David Pastrnak,1996-05-25,CZE,6,Boston Bruins
+8478443,Brandon Carlo,1996-11-26,USA,6,Boston Bruins
+8478498,Jake DeBrusk,1996-10-17,CAN,6,Boston Bruins
+8479325,Charlie McAvoy,1997-12-21,USA,6,Boston Bruins
+8479365,Trent Frederic,1998-02-11,USA,6,Boston Bruins
+8479546,Oskar Steen,1998-03-09,SWE,6,Boston Bruins
+8480001,Urho Vaakanainen,1999-01-01,FIN,6,Boston Bruins
+8480280,Jeremy Swayman,1998-11-24,USA,6,Boston Bruins
+8467950,Craig Anderson,1981-05-21,USA,7,Buffalo Sabres
+8479465,Drake Caggiula,1994-06-20,CAN,7,Buffalo Sabres
+8479999,Casey Mittelstadt,1998-11-22,USA,7,Buffalo Sabres
+8474682,Dustin Tokarski,1989-09-16,CAN,7,Buffalo Sabres
+8477949,Alex Tuch,1996-05-10,USA,7,Buffalo Sabres
+8475236,Cody Eakin,1991-05-24,CAN,7,Buffalo Sabres
+8475784,Jeff Skinner,1992-05-16,CAN,7,Buffalo Sabres
+8475796,Mark Pysyk,1992-01-11,CAN,7,Buffalo Sabres
+8476525,Colin Miller,1992-10-29,CAN,7,Buffalo Sabres
+8476873,Mark Jankowski,1994-09-13,CAN,7,Buffalo Sabres
+8476876,Malcolm Subban,1993-12-21,CAN,7,Buffalo Sabres
+8476878,Zemgus Girgensons,1994-01-05,LVA,7,Buffalo Sabres
+8476994,Vinnie Hinostroza,1994-04-03,USA,7,Buffalo Sabres
+8477355,Will Butcher,1995-01-06,USA,7,Buffalo Sabres
+8477401,John Hayden,1995-02-14,USA,7,Buffalo Sabres
+8477462,Robert Hagg,1995-02-08,SWE,7,Buffalo Sabres
+8477974,Ryan MacInnis,1996-02-14,USA,7,Buffalo Sabres
+8478075,Anders Bjork,1996-08-05,USA,7,Buffalo Sabres
+8478109,Victor Olofsson,1995-07-18,SWE,7,Buffalo Sabres
+8479289,Ethan Prow,1992-11-17,USA,7,Buffalo Sabres
+8479335,Rasmus Asplund,1997-12-03,SWE,7,Buffalo Sabres
+8479419,Brett Murray,1998-07-20,CAN,7,Buffalo Sabres
+8479420,Tage Thompson,1997-10-30,USA,7,Buffalo Sabres
+8480035,Henri Jokiharju,1999-06-17,FIN,7,Buffalo Sabres
+8480045,Ukko-Pekka Luukkonen,1999-03-09,FIN,7,Buffalo Sabres
+8480196,Jacob Bryson,1997-11-18,CAN,7,Buffalo Sabres
+8480839,Rasmus Dahlin,2000-04-13,SWE,7,Buffalo Sabres
+8481528,Dylan Cozens,2001-02-09,CAN,7,Buffalo Sabres
+8473618,Mathieu Perreault,1988-01-05,CAN,8,Montréal Canadiens
+8475726,Tyler Toffoli,1992-04-24,CAN,8,Montréal Canadiens
+8476441,Joel Edmundson,1993-06-28,CAN,8,Montréal Canadiens
+8476469,Joel Armia,1993-05-31,FIN,8,Montréal Canadiens
+8476981,Josh Anderson,1994-05-07,CAN,8,Montréal Canadiens
+8477989,Christian Dvorak,1996-02-02,USA,8,Montréal Canadiens
+8470642,Shea Weber,1985-08-14,CAN,8,Montréal Canadiens
+8471679,Carey Price,1987-08-16,CAN,8,Montréal Canadiens
+8473507,Jeff Petry,1987-12-09,USA,8,Montréal Canadiens
+8474038,Paul Byron,1989-04-27,CAN,8,Montréal Canadiens
+8475227,Chris Wideman,1990-01-07,USA,8,Montréal Canadiens
+8475279,Ben Chiarot,1991-05-09,CAN,8,Montréal Canadiens
+8477460,Laurent Dauphin,1995-03-27,CAN,8,Montréal Canadiens
+8478838,Lukas Vejdemo,1996-01-25,SWE,8,Montréal Canadiens
+8480051,Cayden Primeau,1999-08-11,USA,8,Montréal Canadiens
+8480858,Cameron Hillis,2000-06-24,CAN,8,Montréal Canadiens
+8481058,Jesse Ylonen,1999-10-03,USA,8,Montréal Canadiens
+8481461,Corey Schueneman,1995-09-02,USA,8,Montréal Canadiens
+8481654,Gianni Fairbrother,2000-09-30,CAN,8,Montréal Canadiens
+8474884,Mike Hoffman,1989-11-24,CAN,8,Montréal Canadiens
+8475233,David Savard,1990-10-22,CAN,8,Montréal Canadiens
+8475848,Brendan Gallagher,1992-05-06,CAN,8,Montréal Canadiens
+8475968,Alex Belzile,1991-08-31,CAN,8,Montréal Canadiens
+8476967,Brett Kulak,1994-01-06,CAN,8,Montréal Canadiens
+8476975,Cedric Paquette,1993-08-13,CAN,8,Montréal Canadiens
+8477476,Artturi Lehkonen,1995-07-04,FIN,8,Montréal Canadiens
+8477494,Jonathan Drouin,1995-03-28,CAN,8,Montréal Canadiens
+8477631,Brandon Baddock,1995-03-29,CAN,8,Montréal Canadiens
+8478011,Louie Belpedio,1996-05-14,USA,8,Montréal Canadiens
+8478133,Jake Evans,1996-06-02,CAN,8,Montréal Canadiens
+8478470,Sam Montembeault,1996-10-30,CAN,8,Montréal Canadiens
+8478915,Sami Niku,1996-10-10,FIN,8,Montréal Canadiens
+8478933,Michael McNiven,1997-07-09,CAN,8,Montréal Canadiens
+8479348,Kale Clague,1998-06-05,CAN,8,Montréal Canadiens
+8479543,Michael Pezzetta,1998-03-13,CAN,8,Montréal Canadiens
+8480018,Nick Suzuki,1999-08-10,CAN,8,Montréal Canadiens
+8480068,Ryan Poehling,1999-01-03,USA,8,Montréal Canadiens
+8481014,Alexander Romanov,2000-01-06,RUS,8,Montréal Canadiens
+8481093,Rafael Harvey-Pinard,1999-01-06,CAN,8,Montréal Canadiens
+8481540,Cole Caufield,2001-01-02,USA,8,Montréal Canadiens
+8478400,Colin White,1997-01-30,USA,9,Ottawa Senators
+8479458,Nikita Zaitsev,1991-10-29,RUS,9,Ottawa Senators
+8481596,Shane Pinto,2000-11-12,USA,9,Ottawa Senators
+8474207,Nick Holden,1987-05-15,CAN,9,Ottawa Senators
+8474589,Tyler Ennis,1989-10-06,CAN,9,Ottawa Senators
+8475766,Austin Watson,1992-01-13,USA,9,Ottawa Senators
+8476899,Matt Murray,1994-05-25,CAN,9,Ottawa Senators
+8476919,Chris Tierney,1994-07-01,CAN,9,Ottawa Senators
+8477015,Connor Brown,1994-01-14,CAN,9,Ottawa Senators
+8477384,Josh Brown,1994-01-21,CAN,9,Ottawa Senators
+8477426,Nick Paul,1995-03-20,CAN,9,Ottawa Senators
+8478469,Thomas Chabot,1997-01-30,CAN,9,Ottawa Senators
+8478874,Adam Gaudette,1996-10-03,USA,9,Ottawa Senators
+8479376,Victor Mete,1998-06-07,CAN,9,Ottawa Senators
+8479580,Dylan Gambrell,1996-08-26,USA,9,Ottawa Senators
+8480029,Alex Formenton,1999-09-13,CAN,9,Ottawa Senators
+8480064,Josh Norris,1999-05-05,USA,9,Ottawa Senators
+8480073,Erik Brannstrom,1999-09-02,SWE,9,Ottawa Senators
+8480208,Drake Batherson,1998-04-27,USA,9,Ottawa Senators
+8480801,Brady Tkachuk,1999-09-16,USA,9,Ottawa Senators
+8482116,Tim Stützle,2002-01-15,DEU,9,Ottawa Senators
+8482245,Artem Zub,1995-10-03,RUS,9,Ottawa Senators
+8469455,Jason Spezza,1983-06-13,CAN,10,Toronto Maple Leafs
+8474162,Jake Muzzin,1989-02-21,CAN,10,Toronto Maple Leafs
+8474190,Wayne Simmonds,1988-08-26,CAN,10,Toronto Maple Leafs
+8474673,TJ Brodie,1990-06-07,CAN,10,Toronto Maple Leafs
+8475166,John Tavares,1990-09-20,CAN,10,Toronto Maple Leafs
+8475718,Justin Holl,1992-01-30,USA,10,Toronto Maple Leafs
+8475789,Jack Campbell,1992-01-09,USA,10,Toronto Maple Leafs
+8475852,Petr Mrazek,1992-02-14,CZE,10,Toronto Maple Leafs
+8476853,Morgan Rielly,1994-03-09,CAN,10,Toronto Maple Leafs
+8477021,Alexander Kerfoot,1994-08-11,CAN,10,Toronto Maple Leafs
+8477939,William Nylander,1996-05-01,CAN,10,Toronto Maple Leafs
+8477941,Nick Ritchie,1995-12-05,CAN,10,Toronto Maple Leafs
+8478047,Michael Bunting,1995-09-17,CAN,10,Toronto Maple Leafs
+8478115,Pierre Engvall,1996-05-31,SWE,10,Toronto Maple Leafs
+8478131,Ondrej Kase,1995-11-08,CZE,10,Toronto Maple Leafs
+8478408,Travis Dermott,1996-12-22,CAN,10,Toronto Maple Leafs
+8478483,Mitchell Marner,1997-05-05,CAN,10,Toronto Maple Leafs
+8479318,Auston Matthews,1997-09-17,USA,10,Toronto Maple Leafs
+8480043,Timothy Liljegren,1999-04-30,SWE,10,Toronto Maple Leafs
+8480144,David Kampf,1995-01-12,CZE,10,Toronto Maple Leafs
+8480873,Rasmus Sandin,2000-03-07,SWE,10,Toronto Maple Leafs
+8481624,Ilya Mikheyev,1994-10-10,RUS,10,Toronto Maple Leafs
+8473533,Jordan Staal,1988-09-10,CAN,12,Carolina Hurricanes
+8474013,Ian Cole,1989-02-21,USA,12,Carolina Hurricanes
+8474090,Brendan Smith,1989-02-08,CAN,12,Carolina Hurricanes
+8474613,Derek Stepan,1990-06-18,USA,12,Carolina Hurricanes
+8475799,Nino Niederreiter,1992-09-08,CHE,12,Carolina Hurricanes
+8475855,Jesper Fast,1991-12-02,SWE,12,Carolina Hurricanes
+8475883,Frederik Andersen,1989-10-02,DNK,12,Carolina Hurricanes
+8476389,Vincent Trocheck,1993-07-11,USA,12,Carolina Hurricanes
+8476869,Brady Skjei,1994-03-26,USA,12,Carolina Hurricanes
+8476882,Teuvo Teravainen,1994-09-11,FIN,12,Carolina Hurricanes
+8476921,Jordan Martinook,1992-07-25,CAN,12,Carolina Hurricanes
+8476958,Jaccob Slavin,1994-05-01,USA,12,Carolina Hurricanes
+8477293,Antti Raanta,1989-05-12,FIN,12,Carolina Hurricanes
+8477488,Brett Pesce,1994-11-15,USA,12,Carolina Hurricanes
+8477950,Tony DeAngelo,1995-10-24,USA,12,Carolina Hurricanes
+8478427,Sebastian Aho,1997-07-26,FIN,12,Carolina Hurricanes
+8478451,Ethan Bear,1997-06-26,CAN,12,Carolina Hurricanes
+8478904,Steven Lorentz,1996-04-13,CAN,12,Carolina Hurricanes
+8480039,Martin Necas,1999-01-15,CZE,12,Carolina Hurricanes
+8480829,Jesperi Kotkaniemi,2000-07-06,FIN,12,Carolina Hurricanes
+8480830,Andrei Svechnikov,2000-03-26,RUS,12,Carolina Hurricanes
+8482093,Seth Jarvis,2002-02-01,CAN,12,Carolina Hurricanes
+8478569,Noel Acciari,1991-12-01,USA,13,Florida Panthers
+8478906,Markus Nutivaara,1994-06-06,FIN,13,Florida Panthers
+8477933,Sam Reinhart,1995-11-06,CAN,13,Florida Panthers
+8478975,Mason Marchment,1995-06-18,CAN,13,Florida Panthers
+8466138,Joe Thornton,1979-07-02,CAN,13,Florida Panthers
+8471887,Patric Hornqvist,1987-01-01,SWE,13,Florida Panthers
+8475462,Radko Gudas,1990-06-05,CZE,13,Florida Panthers
+8475683,Sergei Bobrovsky,1988-09-20,RUS,13,Florida Panthers
+8476456,Jonathan Huberdeau,1993-06-04,CAN,13,Florida Panthers
+8477346,MacKenzie Weegar,1994-01-07,CAN,13,Florida Panthers
+8477407,Anthony Duclair,1995-08-26,CAN,13,Florida Panthers
+8477409,Carter Verhaeghe,1995-08-14,CAN,13,Florida Panthers
+8477493,Aleksander Barkov,1995-09-02,FIN,13,Florida Panthers
+8477932,Aaron Ekblad,1996-02-07,CAN,13,Florida Panthers
+8477935,Sam Bennett,1996-06-20,CAN,13,Florida Panthers
+8477986,Brandon Montour,1994-04-11,CAN,13,Florida Panthers
+8477992,Jonas Johansson,1995-09-19,SWE,13,Florida Panthers
+8478055,Gustav Forsling,1996-06-12,SWE,13,Florida Panthers
+8478366,Frank Vatrano,1994-03-14,USA,13,Florida Panthers
+8479066,Ryan Lomberg,1994-12-09,CAN,13,Florida Panthers
+8479355,Olli Juolevi,1998-05-05,FIN,13,Florida Panthers
+8479523,Lucas Carlsson,1997-07-05,SWE,13,Florida Panthers
+8479553,Maxim Mamin,1995-01-13,RUS,13,Florida Panthers
+8480015,Owen Tippett,1999-02-16,CAN,13,Florida Panthers
+8480185,Eetu Luostarinen,1998-09-02,FIN,13,Florida Panthers
+8481519,Spencer Knight,2001-04-19,USA,13,Florida Panthers
+8482113,Anton Lundell,2001-10-03,FIN,13,Florida Panthers
+8477205,Andrej Sustr,1990-11-29,CZE,14,Tampa Bay Lightning
+8478178,Darren Raddysh,1996-02-28,CAN,14,Tampa Bay Lightning
+8470621,Corey Perry,1985-05-16,CAN,14,Tampa Bay Lightning
+8470880,Brian Elliott,1985-04-09,CAN,14,Tampa Bay Lightning
+8473986,Alex Killorn,1989-09-14,CAN,14,Tampa Bay Lightning
+8474034,Pat Maroon,1988-04-23,USA,14,Tampa Bay Lightning
+8474151,Ryan McDonagh,1989-06-13,USA,14,Tampa Bay Lightning
+8474564,Steven Stamkos,1990-02-07,CAN,14,Tampa Bay Lightning
+8474567,Zach Bogosian,1990-07-15,USA,14,Tampa Bay Lightning
+8475167,Victor Hedman,1990-12-18,SWE,14,Tampa Bay Lightning
+8476292,Ondrej Palat,1991-03-28,CZE,14,Tampa Bay Lightning
+8476453,Nikita Kucherov,1993-06-17,RUS,14,Tampa Bay Lightning
+8476883,Andrei Vasilevskiy,1994-07-25,RUS,14,Tampa Bay Lightning
+8477930,Pierre-Edouard Bellemare,1985-03-06,FRA,14,Tampa Bay Lightning
+8478010,Brayden Point,1996-03-13,CAN,14,Tampa Bay Lightning
+8478416,Erik Cernak,1997-05-28,SVK,14,Tampa Bay Lightning
+8478472,Mathieu Joseph,1997-02-09,CAN,14,Tampa Bay Lightning
+8478519,Anthony Cirelli,1997-07-15,CAN,14,Tampa Bay Lightning
+8479383,Boris Katchouk,1998-06-18,CAN,14,Tampa Bay Lightning
+8479390,Taylor Raddysh,1998-02-18,CAN,14,Tampa Bay Lightning
+8479410,Mikhail Sergachev,1998-06-25,RUS,14,Tampa Bay Lightning
+8479525,Ross Colton,1996-09-11,USA,14,Tampa Bay Lightning
+8479984,Cal Foote,1998-12-13,USA,14,Tampa Bay Lightning
+8480172,Jan Rutta,1990-07-29,CZE,14,Tampa Bay Lightning
+8475958,Michael Sgarbossa,1992-07-25,CAN,15,Washington Capitals
+8479395,Dennis Cholowski,1998-02-15,CAN,15,Washington Capitals
+8471214,Alex Ovechkin,1985-09-17,RUS,15,Washington Capitals
+8471698,T.J. Oshie,1986-12-23,USA,15,Washington Capitals
+8473563,Nicklas Backstrom,1987-11-23,SWE,15,Washington Capitals
+8474176,Carl Hagelin,1988-08-23,SWE,15,Washington Capitals
+8474189,Lars Eller,1989-05-08,DNK,15,Washington Capitals
+8474590,John Carlson,1990-01-10,USA,15,Washington Capitals
+8474602,Justin Schultz,1990-07-06,CAN,15,Washington Capitals
+8475200,Dmitry Orlov,1991-07-23,RUS,15,Washington Capitals
+8475324,Nick Jensen,1990-09-21,USA,15,Washington Capitals
+8475343,Nic Dowd,1990-05-27,USA,15,Washington Capitals
+8475625,Matt Irwin,1987-11-29,CAN,15,Washington Capitals
+8475744,Evgeny Kuznetsov,1992-05-19,RUS,15,Washington Capitals
+8476880,Tom Wilson,1994-03-29,CAN,15,Washington Capitals
+8477839,Conor Sheary,1992-06-08,USA,15,Washington Capitals
+8477845,Trevor van Riemsdyk,1991-07-24,USA,15,Washington Capitals
+8477903,Garnet Hathaway,1991-11-23,USA,15,Washington Capitals
+8477970,Vitek Vanecek,1996-01-09,CZE,15,Washington Capitals
+8478466,Daniel Sprong,1997-03-17,NLD,15,Washington Capitals
+8478492,Ilya Samsonov,1997-02-22,RUS,15,Washington Capitals
+8481517,Brett Leason,1999-04-30,CAN,15,Washington Capitals
+8481580,Connor McMichael,2001-01-15,CAN,15,Washington Capitals
+8481656,Aliaksei Protas,2001-01-06,BLR,15,Washington Capitals
+8474870,Tyler Johnson,1990-07-29,USA,16,Chicago Blackhawks
+8481147,Reese Johnson,1998-07-10,CAN,16,Chicago Blackhawks
+8476545,Kurtis Gabriel,1993-04-20,CAN,16,Chicago Blackhawks
+8476979,Erik Gustafsson,1992-03-14,SWE,16,Chicago Blackhawks
+8478043,Sam Lafferty,1995-03-06,USA,16,Chicago Blackhawks
+8479542,Brandon Hagel,1998-08-27,CAN,16,Chicago Blackhawks
+8480231,Jakub Galvas,1999-06-15,CZE,16,Chicago Blackhawks
+8480947,Kevin Lankinen,1995-04-28,FIN,16,Chicago Blackhawks
+8481004,Josiah Slavin,1998-12-31,USA,16,Chicago Blackhawks
+8482528,Cale Morris,1996-05-22,USA,16,Chicago Blackhawks
+8470594,Marc-Andre Fleury,1984-11-28,CAN,16,Chicago Blackhawks
+8473604,Jonathan Toews,1988-04-29,CAN,16,Chicago Blackhawks
+8474141,Patrick Kane,1988-11-19,USA,16,Chicago Blackhawks
+8475177,Calvin de Haan,1991-05-09,CAN,16,Chicago Blackhawks
+8475792,Brett Connolly,1992-05-02,CAN,16,Chicago Blackhawks
+8476473,Connor Murphy,1993-03-26,USA,16,Chicago Blackhawks
+8476915,Jujhar Khaira,1994-08-13,CAN,16,Chicago Blackhawks
+8476931,Jake McCabe,1993-10-12,USA,16,Chicago Blackhawks
+8477330,Dominik Kubalik,1995-08-21,CZE,16,Chicago Blackhawks
+8477495,Seth Jones,1994-10-03,USA,16,Chicago Blackhawks
+8477846,Ryan Carpenter,1991-01-18,USA,16,Chicago Blackhawks
+8478440,Dylan Strome,1997-03-07,CAN,16,Chicago Blackhawks
+8478452,Caleb Jones,1997-06-06,USA,16,Chicago Blackhawks
+8479337,Alex DeBrincat,1997-12-18,USA,16,Chicago Blackhawks
+8479388,Riley Stillman,1998-03-09,CAN,16,Chicago Blackhawks
+8479404,Henrik Borgstrom,1997-08-06,FIN,16,Chicago Blackhawks
+8480025,MacKenzie Entwistle,1999-07-14,CAN,16,Chicago Blackhawks
+8480070,Ian Mitchell,1999-01-18,CAN,16,Chicago Blackhawks
+8480798,Philipp Kurashev,1999-10-12,CHE,16,Chicago Blackhawks
+8480814,Nicolas Beaudin,1999-10-07,CAN,16,Chicago Blackhawks
+8481523,Kirby Dach,2001-01-21,CAN,16,Chicago Blackhawks
+8482635,Mike Hardman,1999-02-05,USA,16,Chicago Blackhawks
+8482821,Arvid Soderblom,1999-08-19,SWE,16,Chicago Blackhawks
+8477944,Jakub Vrana,1996-02-28,CZE,17,Detroit Red Wings
+8478477,Mitchell Stephens,1997-02-05,CAN,17,Detroit Red Wings
+8479442,Troy Stecher,1994-04-07,CAN,17,Detroit Red Wings
+8471306,Thomas Greiss,1986-01-29,DEU,17,Detroit Red Wings
+8471686,Marc Staal,1987-01-13,CAN,17,Detroit Red Wings
+8474040,Sam Gagner,1989-08-10,CAN,17,Detroit Red Wings
+8475181,Nick Leddy,1991-03-20,USA,17,Detroit Red Wings
+8476480,Vladislav Namestnikov,1992-11-22,RUS,17,Detroit Red Wings
+8477215,Danny DeKeyser,1990-03-07,USA,17,Detroit Red Wings
+8477240,Carter Rowney,1989-05-10,CAN,17,Detroit Red Wings
+8477454,Adam Erne,1995-04-20,USA,17,Detroit Red Wings
+8477479,Tyler Bertuzzi,1995-02-24,CAN,17,Detroit Red Wings
+8477851,Jordan Oesterle,1992-06-25,USA,17,Detroit Red Wings
+8477946,Dylan Larkin,1996-07-30,USA,17,Detroit Red Wings
+8477952,Robby Fabbri,1996-01-22,CAN,17,Detroit Red Wings
+8477968,Alex Nedeljkovic,1996-01-07,USA,17,Detroit Red Wings
+8479379,Givani Smith,1998-02-27,CAN,17,Detroit Red Wings
+8479425,Filip Hronek,1997-11-02,CZE,17,Detroit Red Wings
+8479992,Michael Rasmussen,1999-04-17,CAN,17,Detroit Red Wings
+8480184,Gustav Lindstrom,1998-10-20,SWE,17,Detroit Red Wings
+8480459,Pius Suter,1996-05-24,CHE,17,Detroit Red Wings
+8480813,Joe Veleno,2000-01-13,CAN,17,Detroit Red Wings
+8480821,Filip Zadina,1999-11-27,CZE,17,Detroit Red Wings
+8481542,Moritz Seider,2001-04-06,DEU,17,Detroit Red Wings
+8482078,Lucas Raymond,2002-03-28,SWE,17,Detroit Red Wings
+8474600,Roman Josi,1990-06-01,CHE,18,Nashville Predators
+8474697,Mark Borowiecki,1989-07-12,CAN,18,Nashville Predators
+8475168,Matt Duchene,1991-01-16,CAN,18,Nashville Predators
+8475218,Mattias Ekholm,1990-05-24,SWE,18,Nashville Predators
+8475793,Ryan Johansen,1992-07-31,CAN,18,Nashville Predators
+8475798,Mikael Granlund,1992-02-26,FIN,18,Nashville Predators
+8476393,Nick Cousins,1993-07-20,CAN,18,Nashville Predators
+8476887,Filip Forsberg,1994-08-13,SWE,18,Nashville Predators
+8476925,Colton Sissons,1993-11-05,CAN,18,Nashville Predators
+8476988,Matt Benning,1994-05-25,CAN,18,Nashville Predators
+8477424,Juuse Saros,1995-04-19,FIN,18,Nashville Predators
+8477433,Ben Harpur,1995-01-12,CAN,18,Nashville Predators
+8477446,Michael McCarron,1995-03-07,USA,18,Nashville Predators
+8478508,Yakov Trenin,1997-01-13,RUS,18,Nashville Predators
+8478851,Alexandre Carrier,1996-10-08,CAN,18,Nashville Predators
+8479026,Philippe Myers,1997-01-25,CAN,18,Nashville Predators
+8479316,Luke Kunin,1997-12-04,USA,18,Nashville Predators
+8479496,David Rittich,1992-08-19,CZE,18,Nashville Predators
+8479644,Matt Luff,1997-05-05,CAN,18,Nashville Predators
+8479661,Tanner Jeannot,1997-05-29,CAN,18,Nashville Predators
+8480009,Eeli Tolvanen,1999-04-22,FIN,18,Nashville Predators
+8481577,Philip Tomasino,2001-07-28,CAN,18,Nashville Predators
+8471707,James Neal,1987-09-03,CAN,19,St. Louis Blues
+8478057,Dakota Joshua,1996-05-15,USA,19,St. Louis Blues
+8480157,Calle Rosen,1994-02-02,SWE,19,St. Louis Blues
+8474102,David Perron,1988-05-28,CAN,19,St. Louis Blues
+8474145,Robert Bortuzzo,1989-03-18,CAN,19,St. Louis Blues
+8474618,Marco Scandella,1990-02-23,CAN,19,St. Louis Blues
+8475098,Tyler Bozak,1986-03-19,CAN,19,St. Louis Blues
+8475158,Ryan O'Reilly,1991-02-07,CAN,19,St. Louis Blues
+8475170,Brayden Schenn,1991-08-22,CAN,19,St. Louis Blues
+8475753,Justin Faulk,1992-03-20,USA,19,St. Louis Blues
+8475765,Vladimir Tarasenko,1991-12-13,RUS,19,St. Louis Blues
+8476412,Jordan Binnington,1993-07-11,CAN,19,St. Louis Blues
+8476438,Brandon Saad,1992-10-27,USA,19,St. Louis Blues
+8476792,Torey Krug,1991-04-12,USA,19,St. Louis Blues
+8476892,Colton Parayko,1993-05-12,CAN,19,St. Louis Blues
+8476897,Oskar Sundqvist,1994-03-23,SWE,19,St. Louis Blues
+8477402,Pavel Buchnevich,1995-04-17,RUS,19,St. Louis Blues
+8477964,Ivan Barbashev,1995-12-14,RUS,19,St. Louis Blues
+8478013,Jake Walman,1996-02-20,CAN,19,St. Louis Blues
+8478024,Ville Husso,1995-02-06,FIN,19,St. Louis Blues
+8478859,Niko Mikkola,1996-04-27,FIN,19,St. Louis Blues
+8479366,Logan Brown,1998-03-05,USA,19,St. Louis Blues
+8479385,Jordan Kyrou,1998-05-05,CAN,19,St. Louis Blues
+8480011,Klim Kostin,1999-05-05,RUS,19,St. Louis Blues
+8480023,Robert Thomas,1999-07-02,CAN,19,St. Louis Blues
+8481059,Scott Perunovich,1998-08-18,USA,19,St. Louis Blues
+8475278,Byron Froese,1991-03-12,CAN,20,Calgary Flames
+8480008,Adam Ruzicka,1999-05-11,SVK,20,Calgary Flames
+8481692,Dustin Wolf,2001-04-16,USA,20,Calgary Flames
+8482244,Johannes Kinnvall,1997-07-28,SWE,20,Calgary Flames
+8470755,Brad Richardson,1985-02-04,CAN,20,Calgary Flames
+8473453,Trevor Lewis,1987-01-08,USA,20,Calgary Flames
+8473473,Milan Lucic,1988-06-07,CAN,20,Calgary Flames
+8474150,Mikael Backlund,1989-03-17,SWE,20,Calgary Flames
+8474593,Jacob Markstrom,1990-01-31,SWE,20,Calgary Flames
+8474628,Michael Stone,1990-06-07,CAN,20,Calgary Flames
+8475690,Christopher Tanev,1989-12-20,CAN,20,Calgary Flames
+8475752,Tyler Pitlick,1991-11-01,USA,20,Calgary Flames
+8475790,Erik Gudbranson,1992-01-07,CAN,20,Calgary Flames
+8476346,Johnny Gaudreau,1993-08-13,USA,20,Calgary Flames
+8476399,Blake Coleman,1991-11-28,USA,20,Calgary Flames
+8476439,Brett Ritchie,1993-07-01,CAN,20,Calgary Flames
+8477496,Elias Lindholm,1994-12-02,SWE,20,Calgary Flames
+8477497,Sean Monahan,1994-10-12,CAN,20,Calgary Flames
+8477507,Nikita Zadorov,1995-04-16,RUS,20,Calgary Flames
+8478233,Andrew Mangiapane,1996-04-04,CAN,20,Calgary Flames
+8478396,Noah Hanifin,1997-01-25,USA,20,Calgary Flames
+8478397,Rasmus Andersson,1996-10-27,SWE,20,Calgary Flames
+8478430,Oliver Kylington,1997-05-19,SWE,20,Calgary Flames
+8478435,Dan Vladar,1997-08-20,CZE,20,Calgary Flames
+8479314,Matthew Tkachuk,1997-12-11,USA,20,Calgary Flames
+8479346,Dillon Dube,1998-07-20,CAN,20,Calgary Flames
+8476870,Stefan Matteau,1994-02-23,USA,21,Colorado Avalanche
+8479439,Jacob MacDonald,1993-02-26,USA,21,Colorado Avalanche
+8479573,Mikhail Maltsev,1998-03-12,RUS,21,Colorado Avalanche
+8480913,Jordan Gross,1995-05-09,USA,21,Colorado Avalanche
+8482111,Justin Barron,2001-11-15,CAN,21,Colorado Avalanche
+8471677,Jack Johnson,1987-01-13,USA,21,Colorado Avalanche
+8471794,Darren Helm,1987-01-21,CAN,21,Colorado Avalanche
+8473446,Erik Johnson,1988-03-21,USA,21,Colorado Avalanche
+8475172,Nazem Kadri,1990-10-06,CAN,21,Colorado Avalanche
+8475311,Darcy Kuemper,1990-05-05,CAN,21,Colorado Avalanche
+8476455,Gabriel Landeskog,1992-11-23,SWE,21,Colorado Avalanche
+8476850,Ryan Murray,1993-09-27,CAN,21,Colorado Avalanche
+8477073,Kurtis MacDermid,1994-03-25,CAN,21,Colorado Avalanche
+8477444,Andre Burakovsky,1995-02-09,AUT,21,Colorado Avalanche
+8477456,J.T. Compher,1995-04-08,USA,21,Colorado Avalanche
+8477492,Nathan MacKinnon,1995-09-01,CAN,21,Colorado Avalanche
+8477501,Valeri Nichushkin,1995-03-04,RUS,21,Colorado Avalanche
+8477979,Nicolas Aube-Kubel,1996-05-10,CAN,21,Colorado Avalanche
+8478038,Devon Toews,1994-02-21,CAN,21,Colorado Avalanche
+8478420,Mikko Rantanen,1996-10-29,FIN,21,Colorado Avalanche
+8479370,Tyson Jost,1998-03-14,CAN,21,Colorado Avalanche
+8479398,Samuel Girard,1998-05-12,CAN,21,Colorado Avalanche
+8480069,Cale Makar,1998-10-30,CAN,21,Colorado Avalanche
+8480925,Pavel Francouz,1990-06-03,CZE,21,Colorado Avalanche
+8481186,Logan O'Connor,1996-08-14,USA,21,Colorado Avalanche
+8481524,Bowen Byram,2001-06-13,CAN,21,Colorado Avalanche
+8481618,Alex Newhook,2001-01-28,CAN,21,Colorado Avalanche
+8471729,Kris Russell,1987-05-02,CAN,22,Edmonton Oilers
+8476454,Ryan Nugent-Hopkins,1993-04-12,CAN,22,Edmonton Oilers
+8479338,Markus Niemelainen,1998-06-08,FIN,22,Edmonton Oilers
+8475197,Tyson Barrie,1991-07-26,CAN,22,Edmonton Oilers
+8478402,Connor McDavid,1997-01-13,CAN,22,Edmonton Oilers
+8478585,Derek Ryan,1986-12-29,USA,22,Edmonton Oilers
+8481598,Philip Broberg,2001-06-25,SWE,22,Edmonton Oilers
+8481709,Ilya Konovalov,1998-07-13,RUS,22,Edmonton Oilers
+8469608,Mike Smith,1982-03-22,CAN,22,Edmonton Oilers
+8470281,Duncan Keith,1983-07-16,CAN,22,Edmonton Oilers
+8474068,Kyle Turris,1989-08-14,CAN,22,Edmonton Oilers
+8474098,Colton Sceviour,1989-04-20,CAN,22,Edmonton Oilers
+8475156,Mikko Koskinen,1988-07-18,FIN,22,Edmonton Oilers
+8475178,Zack Kassian,1991-01-24,CAN,22,Edmonton Oilers
+8475786,Zach Hyman,1992-06-09,CAN,22,Edmonton Oilers
+8476879,Cody Ceci,1993-12-21,CAN,22,Edmonton Oilers
+8476886,Slater Koekkoek,1994-02-18,CAN,22,Edmonton Oilers
+8476913,Devin Shore,1994-07-19,CAN,22,Edmonton Oilers
+8477498,Darnell Nurse,1995-02-04,CAN,22,Edmonton Oilers
+8477934,Leon Draisaitl,1995-10-27,DEU,22,Edmonton Oilers
+8477943,Brendan Perlini,1996-04-27,GBR,22,Edmonton Oilers
+8477998,Warren Foegele,1996-04-01,CAN,22,Edmonton Oilers
+8478021,William Lagesson,1996-02-22,SWE,22,Edmonton Oilers
+8479344,Jesse Puljujarvi,1998-05-07,SWE,22,Edmonton Oilers
+8479347,Tyler Benson,1998-03-15,CAN,22,Edmonton Oilers
+8479977,Kailer Yamamoto,1998-09-29,USA,22,Edmonton Oilers
+8480802,Ryan McLeod,1999-09-21,CAN,22,Edmonton Oilers
+8480803,Evan Bouchard,1999-10-20,CAN,22,Edmonton Oilers
+8474612,Travis Hamonic,1990-08-16,CAN,23,Vancouver Canucks
+8478465,Guillaume Brisebois,1997-07-21,CAN,23,Vancouver Canucks
+8477474,Madison Bowey,1995-04-22,CAN,23,Vancouver Canucks
+8470860,Jaroslav Halak,1985-05-13,SVK,23,Vancouver Canucks
+8474568,Luke Schenn,1989-11-02,CAN,23,Vancouver Canucks
+8474574,Tyler Myers,1990-02-01,USA,23,Vancouver Canucks
+8475163,Alex Chiasson,1990-10-01,CAN,23,Vancouver Canucks
+8475171,Oliver Ekman-Larsson,1991-07-17,SWE,23,Vancouver Canucks
+8476468,J.T. Miller,1993-03-14,USA,23,Vancouver Canucks
+8476779,Brad Hunt,1988-08-24,CAN,23,Vancouver Canucks
+8476871,Tanner Pearson,1992-08-10,CAN,23,Vancouver Canucks
+8477335,Kyle Burroughs,1995-07-12,CAN,23,Vancouver Canucks
+8477353,Tyler Motte,1995-03-10,USA,23,Vancouver Canucks
+8477359,Tucker Poolman,1993-06-08,USA,23,Vancouver Canucks
+8477450,Jason Dickinson,1995-07-04,CAN,23,Vancouver Canucks
+8477500,Bo Horvat,1995-04-05,CAN,23,Vancouver Canucks
+8477967,Thatcher Demko,1995-12-08,USA,23,Vancouver Canucks
+8477996,Juho Lammikko,1996-01-29,FIN,23,Vancouver Canucks
+8478146,Matthew Highmore,1996-02-27,CAN,23,Vancouver Canucks
+8478444,Brock Boeser,1997-02-25,USA,23,Vancouver Canucks
+8478856,Conor Garland,1996-03-11,USA,23,Vancouver Canucks
+8480012,Elias Pettersson,1998-11-12,SWE,23,Vancouver Canucks
+8480800,Quinn Hughes,1999-10-14,USA,23,Vancouver Canucks
+8481535,Nils Hoglander,2000-12-20,SWE,23,Vancouver Canucks
+8481617,Vasily Podkolzin,2001-06-24,RUS,23,Vancouver Canucks
+8474641,Adam Henrique,1990-02-06,CAN,24,Anaheim Ducks
+8479368,Max Jones,1998-02-17,USA,24,Anaheim Ducks
+8479372,Josh Mahura,1998-05-05,CAN,24,Anaheim Ducks
+8474031,Kevin Shattenkirk,1989-01-29,USA,24,Anaheim Ducks
+8475164,Jakob Silfverberg,1990-10-13,SWE,24,Anaheim Ducks
+8475235,Nicolas Deslauriers,1991-02-22,CAN,24,Anaheim Ducks
+8475764,Cam Fowler,1991-12-05,CAN,24,Anaheim Ducks
+8475842,Sam Carrick,1992-02-04,CAN,24,Anaheim Ducks
+8476312,Josh Manson,1991-10-07,USA,24,Anaheim Ducks
+8476434,John Gibson,1993-07-14,USA,24,Anaheim Ducks
+8476483,Rickard Rakell,1993-05-05,SWE,24,Anaheim Ducks
+8476854,Hampus Lindholm,1994-01-20,SWE,24,Anaheim Ducks
+8476932,Anthony Stolarz,1994-01-20,USA,24,Anaheim Ducks
+8477947,Sonny Milano,1996-05-12,USA,24,Anaheim Ducks
+8478491,Jacob Larsson,1997-04-29,SWE,24,Anaheim Ducks
+8478873,Troy Terry,1997-09-10,USA,24,Anaheim Ducks
+8479351,Sam Steel,1998-02-03,CAN,24,Anaheim Ducks
+8480031,Max Comtois,1999-01-08,CAN,24,Anaheim Ducks
+8480806,Isac Lundestrom,1999-11-06,SWE,24,Anaheim Ducks
+8481122,Simon Benoit,1998-09-19,CAN,24,Anaheim Ducks
+8481533,Trevor Zegras,2001-03-20,USA,24,Anaheim Ducks
+8482142,Jamie Drysdale,2002-04-08,CAN,24,Anaheim Ducks
+8478528,Tanner Kero,1992-07-24,USA,25,Dallas Stars
+8480988,Riley Damiani,2000-03-20,CAN,25,Dallas Stars
+8470600,Ryan Suter,1985-01-21,USA,25,Dallas Stars
+8470794,Joe Pavelski,1984-07-11,USA,25,Dallas Stars
+8471228,Alexander Radulov,1986-07-05,RUS,25,Dallas Stars
+8471284,Andrej Sekera,1986-06-08,SVK,25,Dallas Stars
+8473994,Jamie Benn,1989-07-18,CAN,25,Dallas Stars
+8474651,Braden Holtby,1989-09-16,CAN,25,Dallas Stars
+8475794,Tyler Seguin,1992-01-31,CAN,25,Dallas Stars
+8475825,Jani Hakanpaa,1992-03-31,FIN,25,Dallas Stars
+8475906,John Klingberg,1992-08-14,SWE,25,Dallas Stars
+8476822,Luke Glendening,1989-04-28,USA,25,Dallas Stars
+8476889,Radek Faksa,1994-01-09,CZE,25,Dallas Stars
+8476902,Esa Lindell,1994-05-23,FIN,25,Dallas Stars
+8477290,Michael Raffl,1988-12-01,AUT,25,Dallas Stars
+8477810,Joel Hanley,1991-06-08,CAN,25,Dallas Stars
+8478449,Roope Hintz,1996-11-17,FIN,25,Dallas Stars
+8478495,Denis Gurianov,1997-06-07,RUS,25,Dallas Stars
+8479979,Jake Oettinger,1998-12-18,USA,25,Dallas Stars
+8480027,Jason Robertson,1999-07-22,USA,25,Dallas Stars
+8480036,Miro Heiskanen,1999-07-18,FIN,25,Dallas Stars
+8480216,Jacob Peterson,1999-07-19,SWE,25,Dallas Stars
+8481581,Thomas Harley,2001-08-19,USA,25,Dallas Stars
+8481641,Joel Kiviranta,1996-03-23,FIN,25,Dallas Stars
+8471303,Alexander Edler,1986-04-21,SWE,26,Los Angeles Kings
+8476960,Andreas Athanasiou,1994-08-06,CAN,26,Los Angeles Kings
+8480336,Sean Walker,1994-11-13,CAN,26,Los Angeles Kings
+8476343,Garret Sparks,1993-06-28,USA,26,Los Angeles Kings
+8479336,Carl Grundstrom,1997-12-01,SWE,26,Los Angeles Kings
+8470606,Dustin Brown,1984-11-04,USA,26,Los Angeles Kings
+8471685,Anze Kopitar,1987-08-24,SVN,26,Los Angeles Kings
+8471734,Jonathan Quick,1986-01-21,USA,26,Los Angeles Kings
+8474563,Drew Doughty,1989-12-08,CAN,26,Los Angeles Kings
+8476479,Phillip Danault,1993-02-24,CAN,26,Los Angeles Kings
+8476874,Olli Maatta,1994-08-22,FIN,26,Los Angeles Kings
+8477361,Cal Petersen,1994-10-19,USA,26,Los Angeles Kings
+8477960,Adrian Kempe,1996-09-13,SWE,26,Los Angeles Kings
+8477962,Brendan Lemieux,1996-03-15,USA,26,Los Angeles Kings
+8478042,Viktor Arvidsson,1993-04-08,SWE,26,Los Angeles Kings
+8478911,Matt Roy,1995-03-01,USA,26,Los Angeles Kings
+8479421,Jacob Moverare,1998-08-31,SWE,26,Los Angeles Kings
+8479675,Trevor Moore,1995-03-31,USA,26,Los Angeles Kings
+8479998,Mikey Anderson,1999-05-25,USA,26,Los Angeles Kings
+8480072,Lias Andersson,1998-10-13,SWE,26,Los Angeles Kings
+8480434,Sean Durzi,1998-10-21,CAN,26,Los Angeles Kings
+8480845,Rasmus Kupari,2000-03-15,FIN,26,Los Angeles Kings
+8481481,Blake Lizotte,1997-12-13,USA,26,Los Angeles Kings
+8481560,Arthur Kaliyev,2001-06-26,UZB,26,Los Angeles Kings
+8481600,Tobias Bjornfot,2001-04-06,SWE,26,Los Angeles Kings
+8478099,Kevin Labanc,1995-12-12,USA,28,San Jose Sharks
+8478136,Jacob Middleton,1996-01-02,CAN,28,San Jose Sharks
+8478870,Rudolfs Balcers,1997-04-08,LVA,28,San Jose Sharks
+8470613,Brent Burns,1985-03-09,CAN,28,San Jose Sharks
+8471699,Andrew Cogliano,1987-06-14,CAN,28,San Jose Sharks
+8471709,Marc-Edouard Vlasic,1987-03-30,CAN,28,San Jose Sharks
+8473503,James Reimer,1988-03-15,CAN,28,San Jose Sharks
+8474009,Nick Bonino,1988-04-20,USA,28,San Jose Sharks
+8474578,Erik Karlsson,1990-05-31,SWE,28,San Jose Sharks
+8476442,Matt Nieto,1992-11-05,USA,28,San Jose Sharks
+8476881,Tomas Hertl,1993-11-12,CZE,28,San Jose Sharks
+8477034,Jaycob Megna,1992-12-10,USA,28,San Jose Sharks
+8478414,Timo Meier,1996-10-08,CHE,28,San Jose Sharks
+8478467,Nicolas Meloche,1997-07-18,CAN,28,San Jose Sharks
+8478499,Adin Hill,1996-05-11,CAN,28,San Jose Sharks
+8479313,Zach Sawchenko,1997-12-30,CAN,28,San Jose Sharks
+8479373,Jonathan Dahlen,1997-12-20,SWE,28,San Jose Sharks
+8479393,Noah Gregor,1998-07-28,CAN,28,San Jose Sharks
+8479705,Jeffrey Viel,1997-01-28,CAN,28,San Jose Sharks
+8479981,Jonah Gadjovich,1998-10-12,CAN,28,San Jose Sharks
+8479983,Mario Ferraro,1998-09-17,CAN,28,San Jose Sharks
+8480060,Scott Reedy,1999-04-04,USA,28,San Jose Sharks
+8480160,Radim Simek,1992-09-20,CZE,28,San Jose Sharks
+8480847,Ryan Merkley,2000-08-14,CAN,28,San Jose Sharks
+8481061,Jasper Weatherby,1998-01-22,USA,28,San Jose Sharks
+8482222,Alexander Barabanov,1994-06-17,RUS,28,San Jose Sharks
+8479941,Justin Danforth,1993-03-15,CAN,29,Columbus Blue Jackets
+8480193,Daniil Tarasov,1999-03-27,RUS,29,Columbus Blue Jackets
+8478460,Zach Werenski,1997-07-19,USA,29,Columbus Blue Jackets
+8474161,Jakub Voracek,1989-08-15,CZE,29,Columbus Blue Jackets
+8474679,Gustav Nyquist,1989-09-01,SWE,29,Columbus Blue Jackets
+8475234,J-F Berube,1991-07-13,CAN,29,Columbus Blue Jackets
+8476374,Sean Kuraly,1993-01-20,USA,29,Columbus Blue Jackets
+8476432,Boone Jenner,1993-06-15,CAN,29,Columbus Blue Jackets
+8476914,Joonas Korpisalo,1994-04-28,FIN,29,Columbus Blue Jackets
+8477416,Oliver Bjorkstrand,1995-04-10,DNK,29,Columbus Blue Jackets
+8477503,Max Domi,1995-03-02,CAN,29,Columbus Blue Jackets
+8478007,Elvis Merzlikins,1994-04-13,LVA,29,Columbus Blue Jackets
+8478458,Jack Roslovic,1997-01-29,USA,29,Columbus Blue Jackets
+8478506,Gabriel Carlsson,1997-01-02,SWE,29,Columbus Blue Jackets
+8478567,Dean Kukan,1993-07-08,CHE,29,Columbus Blue Jackets
+8478882,Vladislav Gavrikov,1995-11-21,RUS,29,Columbus Blue Jackets
+8479339,Patrik Laine,1998-04-19,FIN,29,Columbus Blue Jackets
+8479369,Andrew Peeke,1998-03-17,USA,29,Columbus Blue Jackets
+8479402,Jake Bean,1998-06-09,CAN,29,Columbus Blue Jackets
+8480074,Alexandre Texier,1999-09-13,FRA,29,Columbus Blue Jackets
+8480205,Emil Bemstrom,1999-06-01,SWE,29,Columbus Blue Jackets
+8480762,Eric Robinson,1995-06-14,USA,29,Columbus Blue Jackets
+8480871,Adam Boqvist,2000-08-15,SWE,29,Columbus Blue Jackets
+8481161,Jake Christiansen,1999-09-12,CAN,29,Columbus Blue Jackets
+8482475,Yegor Chinakhov,2001-02-01,RUS,29,Columbus Blue Jackets
+8482705,Cole Sillinger,2003-05-16,USA,29,Columbus Blue Jackets
+8474716,Jared Spurgeon,1989-11-29,CAN,30,Minnesota Wild
+8476437,Victor Rask,1993-03-01,SWE,30,Minnesota Wild
+8477541,Dakota Mermis,1994-01-05,USA,30,Minnesota Wild
+8478413,Jordan Greenway,1997-02-16,USA,30,Minnesota Wild
+8479520,Brandon Duhaime,1997-05-22,USA,30,Minnesota Wild
+8481545,Hunter Jones,2000-09-21,CAN,30,Minnesota Wild
+8471274,Alex Goligoski,1985-07-30,USA,30,Minnesota Wild
+8474818,Jordie Benn,1987-07-26,CAN,30,Minnesota Wild
+8475179,Dmitry Kulikov,1990-10-29,RUS,30,Minnesota Wild
+8475220,Marcus Foligno,1991-08-10,USA,30,Minnesota Wild
+8475660,Cam Talbot,1987-07-05,CAN,30,Minnesota Wild
+8475692,Mats Zuccarello,1987-09-01,NOR,30,Minnesota Wild
+8475750,Jon Merrill,1992-02-03,USA,30,Minnesota Wild
+8475760,Nick Bjugstad,1992-07-17,USA,30,Minnesota Wild
+8476463,Jonas Brodin,1993-07-12,SWE,30,Minnesota Wild
+8476856,Matt Dumba,1994-07-25,CAN,30,Minnesota Wild
+8477202,Andrew Hammond,1988-02-11,CAN,30,Minnesota Wild
+8477451,Ryan Hartman,1994-09-20,USA,30,Minnesota Wild
+8477919,Frederick Gaudreau,1993-05-01,CAN,30,Minnesota Wild
+8477942,Kevin Fiala,1996-07-22,CHE,30,Minnesota Wild
+8478039,Kaapo Kahkonen,1996-08-16,FIN,30,Minnesota Wild
+8478493,Joel Eriksson Ek,1997-01-29,SWE,30,Minnesota Wild
+8478864,Kirill Kaprizov,1997-04-26,RUS,30,Minnesota Wild
+8479514,Rem Pitlick,1997-04-02,CAN,30,Minnesota Wild
+8480884,Calen Addison,2000-04-11,CAN,30,Minnesota Wild
+8480980,Connor Dewar,1999-06-26,CAN,30,Minnesota Wild
+8481477,Nico Sturm,1995-05-03,DEU,30,Minnesota Wild
+8481557,Matt Boldy,2001-04-05,USA,30,Minnesota Wild
+8482079,Marco Rossi,2001-09-23,AUT,30,Minnesota Wild
+8471218,Blake Wheeler,1986-08-31,USA,52,Winnipeg Jets
+8473412,Bryan Little,1987-11-12,CAN,52,Winnipeg Jets
+8481019,David Gustafsson,2000-04-11,SWE,52,Winnipeg Jets
+8478031,Nelson Nogier,1996-05-27,CAN,52,Winnipeg Jets
+8480049,Dylan Samberg,1999-01-24,USA,52,Winnipeg Jets
+8481572,Ville Heinola,2001-03-02,FIN,52,Winnipeg Jets
+8471669,Paul Stastny,1985-12-27,CAN,52,Winnipeg Jets
+8475455,Brenden Dillon,1990-11-13,CAN,52,Winnipeg Jets
+8476331,Dylan DeMelo,1993-05-01,CAN,52,Winnipeg Jets
+8476392,Adam Lowry,1993-03-29,USA,52,Winnipeg Jets
+8476460,Mark Scheifele,1993-03-15,CAN,52,Winnipeg Jets
+8476470,Nathan Beaulieu,1992-12-05,CAN,52,Winnipeg Jets
+8476945,Connor Hellebuyck,1993-05-19,USA,52,Winnipeg Jets
+8476952,Dominic Toninato,1994-03-09,USA,52,Winnipeg Jets
+8477220,Nate Schmidt,1991-07-16,USA,52,Winnipeg Jets
+8477429,Andrew Copp,1994-07-08,USA,52,Winnipeg Jets
+8477480,Eric Comrie,1995-07-06,CAN,52,Winnipeg Jets
+8477504,Josh Morrissey,1995-03-28,CAN,52,Winnipeg Jets
+8477940,Nikolaj Ehlers,1996-02-14,DNK,52,Winnipeg Jets
+8478058,CJ Suess,1994-03-17,USA,52,Winnipeg Jets
+8478398,Kyle Connor,1996-12-09,USA,52,Winnipeg Jets
+8478424,Jansen Harkins,1997-05-23,USA,52,Winnipeg Jets
+8478431,Evgeny Svechnikov,1996-10-31,RUS,52,Winnipeg Jets
+8479378,Logan Stanley,1998-05-26,CAN,52,Winnipeg Jets
+8479400,Pierre-Luc Dubois,1998-06-24,CAN,52,Winnipeg Jets
+8480005,Kristian Vesalainen,1999-06-01,FIN,52,Winnipeg Jets
+8480145,Neal Pionk,1995-07-29,USA,52,Winnipeg Jets
+8480443,Kristian Reichel,1998-06-11,CZE,52,Winnipeg Jets
+8482149,Cole Perfetti,2002-01-01,CAN,52,Winnipeg Jets
+8474291,Jay Beagle,1985-10-16,CAN,53,Arizona Coyotes
+8475622,Carter Hutton,1985-12-19,CAN,53,Arizona Coyotes
+8476288,Ryan Dzingel,1992-03-09,USA,53,Arizona Coyotes
+8476436,Dmitrij Jaskin,1993-03-23,RUS,53,Arizona Coyotes
+8479345,Jakob Chychrun,1998-03-31,USA,53,Arizona Coyotes
+8479982,Conor Timmins,1998-09-18,CAN,53,Arizona Coyotes
+8470626,Loui Eriksson,1985-07-17,SWE,53,Arizona Coyotes
+8471217,Andrew Ladd,1985-12-12,CAN,53,Arizona Coyotes
+8471873,Anton Stralman,1986-08-01,SWE,53,Arizona Coyotes
+8473548,Phil Kessel,1987-10-02,USA,53,Arizona Coyotes
+8474062,Riley Nash,1989-05-09,CAN,53,Arizona Coyotes
+8474849,Antoine Roussel,1989-11-21,FRA,53,Arizona Coyotes
+8475728,Johan Larsson,1992-07-25,SWE,53,Arizona Coyotes
+8475809,Scott Wedgewood,1992-08-14,CAN,53,Arizona Coyotes
+8476329,Travis Boyd,1993-09-14,USA,53,Arizona Coyotes
+8476851,Alex Galchenyuk,1994-02-12,USA,53,Arizona Coyotes
+8476906,Shayne Gostisbehere,1993-04-20,USA,53,Arizona Coyotes
+8477070,Liam O'Brien,1994-07-29,CAN,53,Arizona Coyotes
+8477951,Nick Schmaltz,1996-02-23,USA,53,Arizona Coyotes
+8478062,Dysin Mayo,1996-08-17,CAN,53,Arizona Coyotes
+8478432,Christian Fischer,1997-04-15,USA,53,Arizona Coyotes
+8478474,Lawson Crouse,1997-06-23,CAN,53,Arizona Coyotes
+8478476,Kyle Capobianco,1997-08-13,CAN,53,Arizona Coyotes
+8478872,Karel Vejmelka,1996-05-25,CZE,53,Arizona Coyotes
+8479341,Cam Dineen,1998-06-19,USA,53,Arizona Coyotes
+8479343,Clayton Keller,1998-07-29,USA,53,Arizona Coyotes
+8480849,Barrett Hayton,2000-06-09,CAN,53,Arizona Coyotes
+8480950,Ilya Lyubushkin,1994-04-06,RUS,53,Arizona Coyotes
+8482655,Janis Moser,2000-06-06,CHE,53,Arizona Coyotes
+8474157,Max Pacioretty,1988-11-20,USA,54,Vegas Golden Knights
+8474166,Alec Martinez,1987-07-26,USA,54,Vegas Golden Knights
+8478403,Jack Eichel,1996-10-28,USA,54,Vegas Golden Knights
+8479980,Nicolas Hague,1998-12-05,CAN,54,Vegas Golden Knights
+8479991,Jake Leschyshyn,1999-03-10,USA,54,Vegas Golden Knights
+8480007,Jonas Rondbjerg,1999-03-31,DNK,54,Vegas Golden Knights
+8482624,Daniil Miromanov,1997-07-11,RUS,54,Vegas Golden Knights
+8474149,Evgenii Dadonov,1989-03-12,RUS,54,Vegas Golden Knights
+8474565,Alex Pietrangelo,1990-01-18,CAN,54,Vegas Golden Knights
+8475188,Brayden McNabb,1991-01-21,CAN,54,Vegas Golden Knights
+8475191,Reilly Smith,1991-04-01,CAN,54,Vegas Golden Knights
+8475215,Robin Lehner,1991-07-24,SWE,54,Vegas Golden Knights
+8475913,Mark Stone,1992-05-13,CAN,54,Vegas Golden Knights
+8476316,Laurent Brossoit,1993-03-23,CAN,54,Vegas Golden Knights
+8476448,William Karlsson,1993-01-08,SWE,54,Vegas Golden Knights
+8476539,Jonathan Marchessault,1990-12-27,CAN,54,Vegas Golden Knights
+8476905,Chandler Stephenson,1994-04-22,CAN,54,Vegas Golden Knights
+8477018,Ben Hutton,1993-04-20,CAN,54,Vegas Golden Knights
+8477406,Mattias Janmark,1992-12-08,SWE,54,Vegas Golden Knights
+8477447,Shea Theodore,1995-08-03,CAN,54,Vegas Golden Knights
+8477478,William Carrier,1994-12-20,CAN,54,Vegas Golden Knights
+8478020,Michael Amadio,1996-05-13,CAN,54,Vegas Golden Knights
+8478434,Keegan Kolesar,1997-04-08,CAN,54,Vegas Golden Knights
+8478462,Nicolas Roy,1997-02-05,CAN,54,Vegas Golden Knights
+8478996,Adam Brooks,1996-05-06,CAN,54,Vegas Golden Knights
+8479353,Brett Howden,1998-03-29,CAN,54,Vegas Golden Knights
+8479639,Dylan Coghlan,1998-02-19,CAN,54,Vegas Golden Knights
+8479974,Nolan Patrick,1998-09-19,CAN,54,Vegas Golden Knights
+8480313,Logan Thompson,1997-02-25,CAN,54,Vegas Golden Knights
+8480727,Zach Whitecloud,1996-11-28,CAN,54,Vegas Golden Knights
+8479293,Brandon Tanev,1991-12-31,CAN,55,Seattle Kraken
+8478407,Vince Dunn,1996-10-29,CAN,55,Seattle Kraken
+8478891,Mason Appleton,1996-01-15,USA,55,Seattle Kraken
+8479986,Kole Lind,1998-10-16,CAN,55,Seattle Kraken
+8470966,Mark Giordano,1983-10-03,CAN,55,Seattle Kraken
+8474586,Jordan Eberle,1990-05-15,CAN,55,Seattle Kraken
+8475149,Marcus Johansson,1990-10-06,SWE,55,Seattle Kraken
+8475714,Calle Jarnkrok,1991-09-25,SWE,55,Seattle Kraken
+8475768,Jaden Schwartz,1992-06-25,CAN,55,Seattle Kraken
+8475772,Riley Sheahan,1991-12-07,CAN,55,Seattle Kraken
+8475820,Joonas Donskoi,1992-04-13,FIN,55,Seattle Kraken
+8475831,Philipp Grubauer,1991-11-25,DEU,55,Seattle Kraken
+8476278,Colin Blackwell,1993-03-28,USA,55,Seattle Kraken
+8476457,Adam Larsson,1992-11-12,SWE,55,Seattle Kraken
+8476467,Jamie Oleksiak,1992-12-21,CAN,55,Seattle Kraken
+8476826,Yanni Gourde,1991-12-15,CAN,55,Seattle Kraken
+8476904,Chris Driedger,1994-05-18,CAN,55,Seattle Kraken
+8477369,Carson Soucy,1994-07-27,CAN,55,Seattle Kraken
+8477505,Alex Wennberg,1994-09-22,SWE,55,Seattle Kraken
+8477938,Haydn Fleury,1996-07-08,CAN,55,Seattle Kraken
+8477955,Jared McCann,1996-05-31,CAN,55,Seattle Kraken
+8477987,Ryan Donato,1996-04-09,USA,55,Seattle Kraken
+8478468,Jeremy Lauzon,1997-04-28,CAN,55,Seattle Kraken
+8478840,Will Borgen,1996-12-19,USA,55,Seattle Kraken
+8479987,Morgan Geekie,1998-07-20,CAN,55,Seattle Kraken
